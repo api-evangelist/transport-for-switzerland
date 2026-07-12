@@ -23,10 +23,14 @@ apis:
       - type: Documentation
         url: https://opentransportdata.swiss/en/
 common:
+  - type: DomainSecurity
+    url: security/transport-for-switzerland-domain-security.yml
   - type: Website
     url: https://opentransportdata.swiss/en/
   - type: PublicAPIsListing
     url: https://github.com/public-apis/public-apis
+  - url: https://opentransportdata.swiss/de/feed/
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
