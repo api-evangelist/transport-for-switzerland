@@ -39,7 +39,6 @@ apis:
   - name: Transport for Switzerland
     description: "Official Swiss Public Transport Open Data"
     humanURL: https://opentransportdata.swiss/en/
-    baseURL: https://opentransportdata.swiss/en/
     tags:
       - Transportation
     properties:
